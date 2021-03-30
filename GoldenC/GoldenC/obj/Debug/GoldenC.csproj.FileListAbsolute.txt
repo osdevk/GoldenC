@@ -1,0 +1,7 @@
+C:\Users\ekura\source\repos\GoldenC\GoldenC\bin\Debug\GoldenC.exe.config
+C:\Users\ekura\source\repos\GoldenC\GoldenC\bin\Debug\GoldenC.exe
+C:\Users\ekura\source\repos\GoldenC\GoldenC\bin\Debug\GoldenC.pdb
+C:\Users\ekura\source\repos\GoldenC\GoldenC\obj\Debug\GoldenC.csprojAssemblyReference.cache
+C:\Users\ekura\source\repos\GoldenC\GoldenC\obj\Debug\GoldenC.csproj.CoreCompileInputs.cache
+C:\Users\ekura\source\repos\GoldenC\GoldenC\obj\Debug\GoldenC.exe
+C:\Users\ekura\source\repos\GoldenC\GoldenC\obj\Debug\GoldenC.pdb

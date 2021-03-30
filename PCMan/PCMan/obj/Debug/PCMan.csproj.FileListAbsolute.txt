@@ -1,0 +1,10 @@
+C:\Users\ekura\source\repos\PCMan\PCMan\bin\Debug\PCMan.exe.config
+C:\Users\ekura\source\repos\PCMan\PCMan\bin\Debug\PCMan.exe
+C:\Users\ekura\source\repos\PCMan\PCMan\bin\Debug\PCMan.pdb
+C:\Users\ekura\source\repos\PCMan\PCMan\obj\Debug\PCMan.csprojAssemblyReference.cache
+C:\Users\ekura\source\repos\PCMan\PCMan\obj\Debug\PCMan.Form1.resources
+C:\Users\ekura\source\repos\PCMan\PCMan\obj\Debug\PCMan.Properties.Resources.resources
+C:\Users\ekura\source\repos\PCMan\PCMan\obj\Debug\PCMan.csproj.GenerateResource.cache
+C:\Users\ekura\source\repos\PCMan\PCMan\obj\Debug\PCMan.csproj.CoreCompileInputs.cache
+C:\Users\ekura\source\repos\PCMan\PCMan\obj\Debug\PCMan.exe
+C:\Users\ekura\source\repos\PCMan\PCMan\obj\Debug\PCMan.pdb

@@ -1,0 +1,10 @@
+C:\Users\ekura\source\repos\HTMView\HTMView\bin\Debug\HTMView.exe.config
+C:\Users\ekura\source\repos\HTMView\HTMView\bin\Debug\HTMView.exe
+C:\Users\ekura\source\repos\HTMView\HTMView\bin\Debug\HTMView.pdb
+C:\Users\ekura\source\repos\HTMView\HTMView\obj\Debug\HTMView.csprojAssemblyReference.cache
+C:\Users\ekura\source\repos\HTMView\HTMView\obj\Debug\HTMView.Form1.resources
+C:\Users\ekura\source\repos\HTMView\HTMView\obj\Debug\HTMView.Properties.Resources.resources
+C:\Users\ekura\source\repos\HTMView\HTMView\obj\Debug\HTMView.csproj.GenerateResource.cache
+C:\Users\ekura\source\repos\HTMView\HTMView\obj\Debug\HTMView.csproj.CoreCompileInputs.cache
+C:\Users\ekura\source\repos\HTMView\HTMView\obj\Debug\HTMView.exe
+C:\Users\ekura\source\repos\HTMView\HTMView\obj\Debug\HTMView.pdb
